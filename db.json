@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Wireless Apple Headphones",
+      "description": "High-quality wireless headphones with clear sound and deep bass.",
+      "price": 59.99,
+      "category": "Electronics",
+      "image": "https://placehold.co/400x300?text=Headphones",
+      "stock": 25,
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "title": "Smart Apple Watch",
+      "description": "A stylish smartwatch with fitness tracking and heart rate monitoring.",
+      "price": 89.99,
+      "category": "Electronics",
+      "image": "https://placehold.co/400x300?text=Smart+Watch",
+      "stock": 15,
+      "rating": 4.3
+    },
+    {
+      "id": "3",
+      "title": "Flying Shoes",
+      "description": "Comfortable and lightweight running shoes for everyday activities.",
+      "price": 49.99,
+      "category": "Fashion",
+      "image": "https://placehold.co/400x300?text=Running+Shoes",
+      "stock": 30,
+      "rating": 4.7
+    },
+    {
+      "id": "4",
+      "title": "PC Backpack",
+      "description": "A durable backpack with a padded laptop compartment and multiple pockets.",
+      "price": 34.99,
+      "category": "Accessories",
+      "image": "https://placehold.co/400x300?text=Backpack",
+      "stock": 20,
+      "rating": 4.2
+    },
+    {
+      "id": "5",
+      "title": "Mechanical RGBG Keyboard",
+      "description": "A responsive mechanical keyboard designed for programming and gaming.",
+      "price": 74.99,
+      "category": "Electronics",
+      "image": "https://placehold.co/400x300?text=Keyboard",
+      "stock": 12,
+      "rating": 4.6
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt and David Thomas",
+      "price": 35.99,
+      "category": "Programming",
+      "description": "A practical guide to becoming a better and more effective programmer.",
+      "image": "https://placehold.co/400x500?text=Pragmatic+Programmer",
+      "rating": 4.8,
+      "publishedYear": 1999,
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 29.99,
+      "category": "Programming",
+      "description": "Learn how to write readable, maintainable, and professional code.",
+      "image": "https://placehold.co/400x500?text=Clean+Code",
+      "rating": 4.7,
+      "publishedYear": 2008,
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 19.99,
+      "category": "Self-Improvement",
+      "description": "Discover how small habits can lead to remarkable long-term results.",
+      "image": "https://placehold.co/400x500?text=Atomic+Habits",
+      "rating": 4.9,
+      "publishedYear": 2018,
+      "inStock": true
+    },
+    {
+      "id": "4",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 22.50,
+      "category": "Productivity",
+      "description": "Learn how to focus without distraction on cognitively demanding tasks.",
+      "image": "https://placehold.co/400x500?text=Deep+Work",
+      "rating": 4.6,
+      "publishedYear": 2016,
+      "inStock": false
+    },
+    {
+      "id": "5",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 16.99,
+      "category": "Fiction",
+      "description": "A young shepherd travels in search of treasure and discovers his personal legend.",
+      "image": "https://placehold.co/400x500?text=The+Alchemist",
+      "rating": 4.5,
+      "publishedYear": 1988,
+      "inStock": true
+    }
+  ]
+}
